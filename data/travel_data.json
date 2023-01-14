@@ -1,0 +1,30 @@
+{
+    "flights": [
+        {
+            "id": "1",
+            "name": "flight1",
+            "description": "flight from city A to city B",
+            "price": "$100"
+        },
+        {
+            "id": "2",
+            "name": "flight2",
+            "description": "flight from city B to city C",
+            "price": "$120"
+        }
+    ],
+    "hotels": [
+        {
+            "id": "1",
+            "name": "hotel1",
+            "description": "3 star hotel in city A",
+            "price": "$80"
+        },
+        {
+            "id": "2",
+            "name": "hotel2",
+            "description": "4 star hotel in city B",
+            "price": "$100"
+        }
+    ]
+}

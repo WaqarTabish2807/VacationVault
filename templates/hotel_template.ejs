@@ -1,0 +1,20 @@
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% hotels.forEach(function(hotel) { %>
+        <tr>
+            <td><%= hotel.id %></td>
+            <td><%= hotel.name %></td>
+            <td><%= hotel.description %></td>
+            <td><%= hotel.price %></td>
+        </tr>
+        <% }); %>
+    </tbody>
+</table>
