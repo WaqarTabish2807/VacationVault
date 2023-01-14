@@ -27,7 +27,6 @@ module.exports = {
 ```
 npm start
 ```
-
 ## Usage
 To use the bot, simply start a conversation with it on Telegram and type the command /book_flight or /book_hotel to search and book flights or hotels respectively.
 
