@@ -36,9 +36,6 @@ The project includes a test folder with unit tests for the different components 
 npm test
 ```
 
-Acknowledgments
-Node-telegram-bot-api - A Telegram Bot API for Node.js
-
 ## Contributing
 1. Fork the repository
 2. Create your feature branch (git checkout -b my-new-feature)
