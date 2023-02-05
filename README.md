@@ -36,23 +36,8 @@ The project includes a test folder with unit tests for the different components 
 npm test
 ```
 
-Contributing
-Fork the repository
-Create your feature branch (git checkout -b my-new-feature)
-Commit your changes (git commit -am 'Add some feature')
-Push to the branch (git push origin my-new-feature)
-Create a new Pull Request
-Built With
-Node.js - JavaScript runtime
-Telegram Bot API - API for creating Telegram bots
-MongoDB - NoSQL database
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 Acknowledgments
 Node-telegram-bot-api - A Telegram Bot API for Node.js
-This readme file is a general structure, you should customize it according to your specific project details, such as the commands and functionalities.
-Please let me know if you have any other questions or if you need further clarification on any of the steps.
 
 ## Contributing
 1. Fork the repository
